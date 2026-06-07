@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sumit 👋
+
+🎓 Student from Maharashtra, India
+
+🐍 Currently learning Python
+
+🚀 Building projects and improving my programming skills
+
+## Projects
+- Calculator
+- Number Guessing Game
+- Password Generator
+- More coming soon...
 
 <!--
 **sumitk0102/sumitk0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
